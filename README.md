@@ -1,6 +1,6 @@
 # MCU Board Detection with YOLOv10
 
-This repository contains the code and dataset for detecting multiple MCU boards, including Tang Nano 9K, using YOLOv10. This project is a simple experimentation to understand the detection capabilities of YOLOv10.
+This repository contains the code and dataset for detecting multiple MCU boards using YOLOv10. This project is a simple experimentation to understand the detection capabilities of YOLOv10.
 
 ## Table of Contents
 
