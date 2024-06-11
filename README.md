@@ -16,7 +16,7 @@ This repository contains the code and dataset for detecting multiple MCU boards 
 
 The dataset was created using a USB camera connected to a computer. We captured images at a rate of 4 photos per second using a Python script.
 
-[Dataset Creation Script](../Create%20dataset)
+[Dataset Creation Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/blob/main/Create%20dataset)
 
 ## Data Annotation
 
@@ -31,13 +31,13 @@ Data annotation was performed using Roboflow. The process included:
 
 The model was trained using YOLOv10 on Google Colab. The training script is available in the repository.
 
-[Training Script](../Train)
+[Training Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/blob/main/Train)
 
 ## Model Inference
 
 The trained model was downloaded and used for inference on a local computer with a USB camera.
 
-[Inference Script](../Inference)
+[Inference Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/blob/main/Inference)
 
 ## Results
 
