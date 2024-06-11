@@ -16,7 +16,7 @@ This repository contains the code and dataset for detecting multiple MCU boards 
 
 The dataset was created using a USB camera connected to a computer. We captured images at a rate of 4 photos per second using a Python script.
 
-[Dataset Creation Script](link-to-github-script)
+[Dataset Creation Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/tree/main/Create%20dataset)
 
 ## Data Annotation
 
