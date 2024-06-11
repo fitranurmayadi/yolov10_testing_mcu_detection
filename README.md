@@ -44,7 +44,7 @@ The trained model was downloaded and used for inference on a local computer with
 
 You can watch the video demonstration of the model in action on YouTube:
 
-[![Watch the video](https://youtu.be/csLNx4I1xVw)
+[Watch the video](https://youtu.be/csLNx4I1xVw)
 
 ## Contributing
 
