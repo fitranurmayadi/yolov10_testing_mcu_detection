@@ -39,21 +39,12 @@ The trained model was downloaded and used for inference on a local computer with
 
 [Inference Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/blob/main/Inference)
 
-## Results
-
-The results of the detection process are promising, showing the capabilities of YOLOv10 in detecting various MCU boards.
-
-### Screenshots
-
-Here are some screenshots of the detection results:
-
-![Detection Example 1](path/to/screenshot1.png)
 
 ### Video Demonstration
 
 You can watch the video demonstration of the model in action on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+[![Watch the video](https://youtu.be/csLNx4I1xVw)
 
 ## Contributing
 
