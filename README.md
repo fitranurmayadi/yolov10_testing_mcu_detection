@@ -29,7 +29,7 @@ Data annotation was performed using Roboflow. The process included:
 
 The model was trained using YOLOv10 on Google Colab. The training script is available in the repository.
 
-[Training Script](link-to-github-script)
+[Training Script](https://github.com/fitranurmayadi/yolov10_testing_mcu_detection/blob/main/yolov10_MCU_Board_Object_Detection.ipynb)
 
 ## Model Inference
 
